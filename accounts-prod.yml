@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to DineshBank accounts related production APIs"
   contactDetails:
     name: "Pralay - Devops"
-    email: "Pralay@eazybank.com"
+    email: "{cipher}9deba7ede621845a8bfd00a0684edc1b76b2bbd26238f03c7606deb8ddda330688a6a96c839a75b6b4e75095c648aab6"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
