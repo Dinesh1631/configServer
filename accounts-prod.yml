@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DineshBank accounts related prod APIs"
+  message: "Welcome to DineshBank accounts related web hook prod APIs"
   contactDetails:
     name: "Pralay - Devops"
     email: "{cipher}9deba7ede621845a8bfd00a0684edc1b76b2bbd26238f03c7606deb8ddda330688a6a96c839a75b6b4e75095c648aab6"
