@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to DineshBank accounts related local APIs"
+  message: "Welcome to DineshBank accounts related webhook local APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
